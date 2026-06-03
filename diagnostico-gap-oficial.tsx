@@ -66,7 +66,7 @@ const results: Record<Gap, { title: string; paragraphs: string[] }> = {
     title: "Sua marca entrega mais do que parece entregar.",
     paragraphs: [
       "Você tem qualidade. Tem resultado. Tem histórico.",
-      "Mas o que a sua marca comunica não se distingue do que o mercado inteiro também diz.",
+      "Mas o que a sua marca comunica não diferencia do que o mercado inteiro também diz.",
       "O cliente reconhece competência, mas não percebe diferença suficiente para escolher com clareza.",
       "Aí o preço vira o único critério. E a comparação com o concorrente passa a fazer sentido para ele.",
       "O gap não está na entrega. Está no território que a sua marca ainda não ocupou.",
